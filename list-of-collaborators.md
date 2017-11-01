@@ -5,5 +5,8 @@ with a link to your GitHub profile:
 
 ---
 
-- [Shubhadeep Sarkar](https://github.com/sshubhadeep)
-- [Shubhra Agrahari](https://github.com/shubhra-agrahari)
+- [Shubhadeep Sarkar]( https://github.com/sshubhadeep )
+
+- [Syed Umar Rahil]( https://github.com/Rahil24k )
+
+- [Shubhra Agrahari]( https://github.com/shubhra-agrahari )
